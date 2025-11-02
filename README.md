@@ -3,6 +3,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-gpt--4.1--mini-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
 ![Stage](https://img.shields.io/badge/Stage-MVP-orange)
+
 Smart invoice audit tool that validates vendor invoices, detects anomalies, and generates financial audit notes in **Big-4 auditor style** (Deloitte/EY/PwC/KPMG).
 
 Built for e-commerce & logistics workflows with thousands of orders — automates validation, compliance checks, and reporting.
