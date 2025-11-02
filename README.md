@@ -37,7 +37,7 @@ Built for e-commerce & logistics workflows with thousands of orders — automate
 ![PDF Output](screenshots/rule-based_report.png)
 
 ### Reports Folder
-![Reports Folder](screenshots/reports_folder.png)
+![Reports Folder](screenshots/generated_outputs.png)
 
 
 ## 🚀 Features
