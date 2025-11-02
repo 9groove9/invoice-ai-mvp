@@ -9,7 +9,7 @@ Built for e-commerce & logistics workflows with thousands of orders — automate
 
 ## 🎥 Live Demo (YouTube)
 
-[![Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/cE7hPfBeiQs)
+▶️ [Watch Demo on YouTube](https://youtu.be/cE7hPfBeiQs)
 
 ---
 
@@ -19,16 +19,16 @@ Built for e-commerce & logistics workflows with thousands of orders — automate
 ![Project Structure](screenshots/project_structure.png)
 
 ### Rule-based CLI Mode
-![Rule Mode CLI](screenshots/cli_rule.png)
+![Rule Mode CLI](screenshots/cli_rule.gif)
 
 ### AI Audit CLI Mode
-![AI Mode CLI](screenshots/cli_ai.png)
+![AI Mode CLI](screenshots/cli_ai.gif)
 
 ### Invoice Input Example
 ![Invoice Example](screenshots/invoice.png)
 
 ### Excel Output
-![Excel Output](screenshots/excel_output.png)
+![Excel Output](screenshots/exel_output.png)
 
 ### AI Big4 PDF Output
 ![PDF Output](screenshots/big4_report.png)
